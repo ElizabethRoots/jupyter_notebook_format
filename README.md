@@ -10,7 +10,7 @@ My favorite code editing tool is VS Code. With VS Code, you use packages and ext
 | Tool:       | Version:                                                                                                                                 |
 |-------------|------------------------------------------------------------------------------------------------------------------------------------------|
 | **Python**  | ![npm](https://img.shields.io/static/v1?label=Python&message=3&color=green&logo=Python&style=for-the-badge)                        |
-| **VS Code** | ![alt-text](https://img.shields.io/badge/VS_CODE-1.51.1-BrightGreen?style=Popout&logo=Visual-Studio-Code)                                |
+| **VS Code** | ![alt-text](https://img.shields.io/badge/VS_CODE-1.52-BrightGreen?style=for-the-badge&logo=Visual-Studio-Code)                                |
 | **Jupyter** | [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) |
 
 
