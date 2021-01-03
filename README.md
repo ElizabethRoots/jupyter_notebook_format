@@ -7,9 +7,12 @@ Formatting tips and tricks for your Jupyter notebook.
 This project is a collection of Markdown and formatting used in Jupyter notebooks.
 My favorite code editing tool is VS Code. With VS Code, you use packages and extensions to build your code.
 
-| **Tools** | **Version** |
-| | |
-| | |
+| Tool:       | Version:                                                                                                                                 |
+|-------------|------------------------------------------------------------------------------------------------------------------------------------------|
+| **Python**  | ![PyPI - Python Version](https://img.shields.io/pypi/pyversions/py?logo=Python&logoColor=yellow&style=for-the-badge)                     |
+| **VS Code** | ![alt-text](https://img.shields.io/badge/VS_CODE-1.51.1-BrightGreen?style=Popout&logo=Visual-Studio-Code)                                |
+| **Jupyter** | [![Made withJupyter](https://img.shields.io/badge/Made%20with-Jupyter-orange?style=for-the-badge&logo=Jupyter)](https://jupyter.org/try) |
+
 
 ## Project Setup
 
