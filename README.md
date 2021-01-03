@@ -17,9 +17,10 @@ My favorite code editing tool is VS Code. With VS Code, you use packages and ext
 ## Project Setup
 
 1. Download/Clone the project
-2. Open a new terminal and run the following command: \
+2. Open a new terminal and run the following command:
 
->> `jupyter notebook`
+> `jupyter notebook`
+
 A new browswer window will open. Dbl click inot Formatting.ipynb file to open up the formatting notebook. Run each cell to see the formatting.
 
 ### Additional Tools
