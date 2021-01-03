@@ -1,6 +1,6 @@
 # jupyter_notebook_format
 
-Formatting tips and tricks for your Jupyter notebook.
+Formatting tips and tricks for your Jupyter notebook. This project is not meant to be a tomb of Markdown or Jupyter tricks. Instead, this project is a starting point for how you could format your Jupyter projects. Consistency is key.
 
 ## About this project
 
