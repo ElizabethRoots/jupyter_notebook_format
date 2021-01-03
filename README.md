@@ -32,8 +32,6 @@ In VS Code, there is a nice python linter and a wicked cool formatter called Bla
 You install Black by running the command: (pending you have anaconda installed) \
 `conda install -c conda-forge black`
 
-Formatters aside, when you create your Jupyter notebook, be sure to give your code some love. Apply some markdown.
-
 ### Contribute
 
 If you've found this project and see see something missing or would like to add, please feel free to add and do a PR. Be sure to assign me as a reviewer.
