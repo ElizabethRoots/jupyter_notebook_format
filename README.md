@@ -23,16 +23,17 @@ My favorite code editing tool is VS Code. With VS Code, you use packages and ext
 
 A new browswer window will open. Dbl click inot Formatting.ipynb file to open up the formatting notebook. Run each cell to see the formatting.
 
-### Additional Tools
+## Tools
+
+* Install [Jupyter](https://jupyter.org/install) by following conda or pip.
+* Install [Anaconda](https://docs.anaconda.com/anaconda/install/) or [pip](https://pip.pypa.io/en/stable/reference/pip_install)
 
 In VS Code, there is a nice python linter and a wicked cool formatter called Black.\
 You install Black by running the command: (pending you have anaconda installed) \
 `conda install -c conda-forge black`
 
 Formatters aside, when you create your Jupyter notebook, be sure to give your code some love. Apply some markdown.
-If you've found this project and see see something missing, please feel free to add and do a PR. Be sure to assign me as a reviewer.
 
-## Tools
+### Contribute
 
-* Install [Jupyter](https://jupyter.org/install) by following conda or pip.
-* Install [Anaconda](https://docs.anaconda.com/anaconda/install/) or [pip](https://pip.pypa.io/en/stable/reference/pip_install) 
+If you've found this project and see see something missing or would like to add, please feel free to add and do a PR. Be sure to assign me as a reviewer.
