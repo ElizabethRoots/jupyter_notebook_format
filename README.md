@@ -25,8 +25,7 @@ A new browswer window will open. Dbl click inot Formatting.ipynb file to open up
 
 ## Tools
 
-* Install [Jupyter](https://jupyter.org/install) by following conda or pip.
-* Install [Anaconda](https://docs.anaconda.com/anaconda/install/) or [pip](https://pip.pypa.io/en/stable/reference/pip_install)
+* Install [Jupyter](https://jupyter.org/install) by using either [Anaconda](https://docs.anaconda.com/anaconda/install/) or [pip](https://pip.pypa.io/en/stable/reference/pip_install)
 
 In VS Code, there is a nice python linter and a wicked cool formatter called Black.\
 You install Black by running the command: (pending you have anaconda installed) \
