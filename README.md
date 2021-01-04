@@ -24,7 +24,7 @@ You install Black by running the command: (pending you have anaconda installed) 
 
 1. Download/Clone the project
 2. Open a new terminal and run the following command: `jupyter notebook`
-3. A new browswer window will open. Dbl click inot Formatting.ipynb file to open up the formatting notebook. Run each cell to see the formatting.
+3. A new browswer window will open. Dbl click 'Formatting.ipynb' file to open up the notebook. Run each cell to see the formatting in action.
 
 ## Contribute
 
